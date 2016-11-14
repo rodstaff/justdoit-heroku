@@ -2,7 +2,7 @@
   "name": "justdoit-heroku",
   "version": "1.0.0",
   "description": "",
-  "main": "",
+  "main": "server.js",
   "scripts": "",
   "keywords": [],
   "author": "",
